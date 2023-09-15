@@ -1,0 +1,3 @@
+packages:
+   - git: "https://github.com/ourorg/dbt-data-quality.git"
+     revision: v1.0.0
